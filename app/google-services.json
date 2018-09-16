@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "315067461138",
+    "firebase_url": "https://proyectofinal-6585b.firebaseio.com",
+    "project_id": "proyectofinal-6585b",
+    "storage_bucket": "proyectofinal-6585b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315067461138:android:4682fd147cf08749",
+        "android_client_info": {
+          "package_name": "com.example.randylaptop.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315067461138-jbor8u2u2o0a3ccrupvbtdsatk0cbldp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.randylaptop.proyectofinal",
+            "certificate_hash": "99cf59e8bfd22e84042f80fe0a1c9ba42071f952"
+          }
+        },
+        {
+          "client_id": "315067461138-i4vsp1uhrba5956poo4hhn254458d9ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7OGE_LPddrORZSk9-8PQJqo8AEvfKb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315067461138-i4vsp1uhrba5956poo4hhn254458d9ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
